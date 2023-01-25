@@ -1,1 +1,3 @@
 .venv/
+#defines which files git should ignore in change log
+#not always a default file
